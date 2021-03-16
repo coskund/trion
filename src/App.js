@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Coşkun is here ! .
+        <div className="button sticky">Click me</div>
       </header>
     </div>
   );
